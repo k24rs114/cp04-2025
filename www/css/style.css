@@ -48,7 +48,7 @@
     }
 
     body{
-        background-color:skyblue;
+        background-color:rgb(93, 255, 255);
     }
 
     button{
@@ -67,14 +67,14 @@
     }
     
     #btnB {
-        color:blue;
+        color:red;
         font-size: 20px;
         position:absolute; top:380px; left:45%; width:25%; height:60px; 
     }
 
     #btnC {
         color:blue;
-        font-size: 10px;
+        font-size: 15px;
         position:absolute; top:380px; left:70%; width:28%; height:60px; 
     }
     
